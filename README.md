@@ -1,5 +1,6 @@
 # NNServer
-A backend server using NodeJS, Express framework and MongoDB
+A backend server using NodeJS, Express framework and MongoDB.
+
 The web app backend is listening on localhost 3000 for incoming request, and connect to MongoDB database to save data.
 Currently the server support user signup using local validation(username and passport).
 Server can create JSON Web Tokens(JWT) and send to client who signed up.
